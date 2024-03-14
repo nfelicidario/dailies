@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "fact": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes."
+  },
+  {
+    "id": 2,
+    "fact": "Bananas are berries, but strawberries aren't."
+  },
+  {
+    "id": 3,
+    "fact": "Coca-Cola was originally green."
+  },
+  {
+    "id": 4,
+    "fact": "The unicorn is the national animal of Scotland."
+  },
+  {
+    "id": 5,
+    "fact": "Octopuses have three hearts."
+  },
+  {
+    "id": 6,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 7,
+    "fact": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes."
+  },
+  {
+    "id": 8,
+    "fact": "Bananas are berries, but strawberries aren't."
+  },
+  {
+    "id": 9,
+    "fact": "Coca-Cola was originally green."
+  },
+  {
+    "id": 10,
+    "fact": "The unicorn is the national animal of Scotland."
+  },
+  {
+    "id": 11,
+    "fact": "Octopuses have three hearts."
+  },
+  {
+    "id": 12,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 13,
+    "fact": "A strawberry is not an actual berry, but a banana is."
+  },
+  {
+    "id": 14,
+    "fact": "A flock of crows is known as a murder."
+  },
+  {
+    "id": 15,
+    "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+  },
+  {
+    "id": 16,
+    "fact": "The dot over the letter 'i' is called a tittle."
+  },
+  {
+    "id": 17,
+    "fact": "Polar bears can eat as many as 86 penguins in a single sitting."
+  },
+  {
+    "id": 18,
+    "fact": "It's impossible to hum while holding your nose."
+  },
+  {
+    "id": 19,
+    "fact": "Cows have best friends and get stressed when they are separated."
+  },
+  {
+    "id": 20,
+    "fact": "The national animal of Scotland is the unicorn."
+  },
+  {
+    "id": 21,
+    "fact": "Mosquitoes are attracted to people who have recently eaten bananas."
+  },
+  {
+    "id": 22,
+    "fact": "Venus is the only planet in our solar system that rotates clockwise."
+  },
+  {
+    "id": 23,
+    "fact": "Sea otters hold hands while sleeping to keep from drifting apart."
+  },
+  {
+    "id": 24,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 25,
+    "fact": "The only letter that doesn't appear on the periodic table is the letter 'J'."
+  },
+  {
+    "id": 26,
+    "fact": "An ostrich's eye is bigger than its brain."
+  },
+  {
+    "id": 27,
+    "fact": "The longest wedding veil was longer than 63 football fields."
+  },
+  {
+    "id": 28,
+    "fact": "The world's largest snowflake was 15 inches wide and 8 inches thick."
+  },
+  {
+    "id": 29,
+    "fact": "Slugs have four noses."
+  },
+  {
+    "id": 30,
+    "fact": "There are more possible iterations of a game of chess than there are atoms in the known universe."
+  },
+  {
+    "id": 31,
+    "fact": "The first oranges weren't orange."
+  },
+  {
+    "id": 32,
+    "fact": "There is only one country between North Korea and Norway."
+  },
+  {
+    "id": 33,
+    "fact": "Ketchup was sold in the 1830s as medicine."
+  },
+  {
+    "id": 34,
+    "fact": "The 'Pound' key on your keyboard is called an octothorpe."
+  },
+  {
+    "id": 35,
+    "fact": "Cats have five toes on their front paws, but only four on their back paws."
+  },
+  {
+    "id": 36,
+    "fact": "A 'jiffy' is an actual unit of time: 1/100th of a second."
+  },
+  {
+    "id": 37,
+    "fact": "The longest time between two twins being born is 87 days."
+  },
+  {
+    "id": 38,
+    "fact": "An individual blood cell takes about 60 seconds to make a complete circuit of the body."
+  },
+  {
+    "id": 39,
+    "fact": "A teaspoon of honey represents the life work of 12 bees."
+  },
+  {
+    "id": 40,
+    "fact": "If you lift a kangaroo's tail off the ground, it can't hop."
+  },
+  {
+    "id": 41,
+    "fact": "The tongue is the strongest muscle in the human body."
+  },
+  {
+    "id": 42,
+    "fact": "A shark is the only fish that can blink with both eyes."
+  },
+  {
+    "id": 43,
+    "fact": "Honey never spoils."
+  },
+  {
+    "id": 44,
+    "fact": "The star Antares is 60,000 times larger than our sun."
+  },
+  {
+    "id": 45,
+    "fact": "It's impossible to sneeze with your eyes open."
+  },
+  {
+    "id": 46,
+    "fact": "The only letter that doesn't appear in any U.S. state name is the letter Q."
+  },
+  {
+    "id": 47,
+    "fact": "A cat has been mayor of Talkeetna, Alaska, for 15 years."
+  },
+  {
+    "id": 48,
+    "fact": "In Switzerland, it is illegal to own just one guinea pig."
+  },
+  {
+    "id": 49,
+    "fact": "The shortest war in history lasted only 38 minutes."
+  },
+  {
+    "id": 50,
+    "fact": "The longest wedding veil was longer than 63 football fields."
+  },
+  {
+    "id": 51,
+    "fact": "The longest flight of a chicken is 13 seconds."
+  },
+  {
+    "id": 52,
+    "fact": "The shortest war in history was between Zanzibar and England in 1896."
+  },
+  {
+    "id": 53,
+    "fact": "A snail can sleep for three years."
+  },
+  {
+    "id": 54,
+    "fact": "A baby octopus is about the size of a flea when it is born."
+  },
+  {
+    "id": 55,
+    "fact": "Slugs have four noses."
+  },
+  {
+    "id": 56,
+    "fact": "Coca-Cola originally contained cocaine."
+  },
+  {
+    "id": 57,
+    "fact": "It is physically impossible for pigs to look up into the sky."
+  },
+  {
+    "id": 58,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 59,
+    "fact": "Hawaii moves toward Japan four inches every year."
+  },
+  {
+    "id": 60,
+    "fact": "There are more possible iterations of a game of chess than there are atoms in the known universe."
+  },
+  {
+    "id": 61,
+    "fact": "Avocados are a fruit, not a vegetable."
+  },
+  {
+    "id": 62,
+    "fact": "The Eiffel Tower can be 15 cm taller during the summer."
+  },
+  {
+    "id": 63,
+    "fact": "Trypophobia is the fear of closely-packed holes."
+  },
+  {
+    "id": 64,
+    "fact": "Allodoxaphobia is the fear of other people's opinions."
+  },
+  {
+    "id": 65,
+    "fact": "Australia is wider than the moon."
+  },
+  {
+    "id": 66,
+    "fact": "'Mellifluous' is a sound that is pleasingly smooth and musical to hear."
+  },
+  {
+    "id": 67,
+    "fact": "The Spice Girls were originally a band called Touch."
+  },
+  {
+    "id": 68,
+    "fact": "Emma Bunton auditioned for the role of Bianca Butcher in Eastenders."
+  },
+  {
+    "id": 69,
+    "fact": "Human teeth are the only part of the body that cannot heal themselves."
+  },
+  {
+    "id": 70,
+    "fact": "It's illegal to own just one guinea pig in Switzerland."
+  },
+  {
+    "id": 71,
+    "fact": "The Ancient Romans used to drop a piece of toast into their wine for good health."
+  },
+  {
+    "id": 72,
+    "fact": "The heart of a shrimp is located in its head."
+  },
+  {
+    "id": 73,
+    "fact": "Amy Poehler was only seven years older than Rachel McAdams when she took on the role of \"cool mom\" in Mean Girls."
+  },
+  {
+    "id": 74,
+    "fact": "People are more creative in the shower."
+  },
+  {
+    "id": 75,
+    "fact": "Baby rabbits are called kits."
+  },
+  {
+    "id": 76,
+    "fact": "The unicorn is the national animal of Scotland."
+  },
+  {
+    "id": 77,
+    "fact": "The first aeroplane flew on December 17, 1903."
+  },
+  {
+    "id": 78,
+    "fact": "Venus is the only planet to spin clockwise."
+  },
+  {
+    "id": 79,
+    "fact": "Nutmeg is a hallucinogen."
+  },
+  {
+    "id": 80,
+    "fact": "A 73-year-old bottle of French Burgundy became the most expensive bottle of wine ever sold at auction in 2018."
+  },
+  {
+    "id": 81,
+    "fact": "Competitive art used to be an Olympic sport."
+  },
+  {
+    "id": 82,
+    "fact": "A chef's hat has 100 pleats."
+  },
+  {
+    "id": 83,
+    "fact": "In 2014, there was a Tinder match in Antarctica."
+  },
+  {
+    "id": 84,
+    "fact": "The Spanish national anthem has no words."
+  },
+  {
+    "id": 85,
+    "fact": "The Japanese word 'Kuchi zamishi' is the act of eating when you're not hungry because your mouth is lonely."
+  },
+  {
+    "id": 86,
+    "fact": "The probability of a blue lobster existing is widely touted as being one in two million."
+  },
+  {
+    "id": 87,
+    "fact": "There’s only one letter that doesn’t appear in any American state name."
+  },
+  {
+    "id": 88,
+    "fact": "Louboutins' iconic red soles were inspired by Andy Warhol."
+  },
+  {
+    "id": 89,
+    "fact": "A book called 'A la recherche du temps perdu' by Marcel Proust contains an estimated 9,609,000 characters."
+  },
+  {
+    "id": 90,
+    "fact": "Google images was literally created after Jennifer Lopez wore that infamous dress at the 2000 Grammys."
+  },
+  {
+    "id": 91,
+    "fact": "Big Ben's clock stopped at 10:07 p.m. on 27 May 2005."
+  },
+  {
+    "id": 92,
+    "fact": "Walt Disney currently holds the most Academy Awards."
+  },
+  {
+    "id": 93,
+    "fact": "There's a fruit that tastes like chocolate pudding."
+  },
+  {
+    "id": 94,
+    "fact": "Queen Elizabeth II was a trained mechanic."
+  },
+  {
+    "id": 95,
+    "fact": "The Easter Island heads have bodies."
+  },
+  {
+    "id": 96,
+    "fact": "M&Ms are named after the businessmen who created them."
+  },
+  {
+    "id": 97,
+    "fact": "Pigeons can tell the difference between Picasso and Monet."
+  },
+  {
+    "id": 98,
+    "fact": "The real name for a hashtag is an octothorpe."
+  },
+  {
+    "id": 99,
+    "fact": "The actors who voiced Mickey and Minnie mouse got married in real life."
+  },
+  {
+    "id": 100,
+    "fact": "You can hear a blue whale's heartbeat from over 2 miles away."
+  },
+  {
+    "id": 101,
+    "fact": "The last letter added to the English alphabet was 'J'."
+  },
+  {
+    "id": 102,
+    "fact": "There is actually a word for someone giving an opinion on something they know nothing about."
+  },
+  {
+    "id": 103,
+    "fact": "The Chupa Chups logo was designed by Salvador Dalí."
+  },
+  {
+    "id": 104,
+    "fact": "Ketchup was once sold as medicine."
+  },
+  {
+    "id": 105,
+    "fact": "The world's longest walking distance is 14,000 miles."
+  },
+  {
+    "id": 106,
+    "fact": "The moon has moonquakes."
+  },
+  {
+    "id": 107,
+    "fact": "Humans are the only animals that blush."
+  },
+  {
+    "id": 108,
+    "fact": "All the clocks in Pulp Fiction are set to 4.20."
+  },
+  {
+    "id": 109,
+    "fact": "Pigs can't look up into the sky."
+  },
+  {
+    "id": 110,
+    "fact": "An ostrich's eye is bigger than its brain."
+  },
+  {
+    "id": 111,
+    "fact": "A jiffy is an actual unit of time."
+  },
+  {
+    "id": 112,
+    "fact": "You can't hum if you hold your nose."
+  },
+  {
+    "id": 113,
+    "fact": "Vatican City is the smallest country in the world."
+  },
+  {
+    "id": 114,
+    "fact": "Japan has over 200 flavours of Kit Kats."
+  },
+  {
+    "id": 115,
+    "fact": "A crocodile cannot stick its tongue out."
+  },
+  {
+    "id": 116,
+    "fact": "Australia is wider than the moon."
+  },
+  {
+    "id": 117,
+    "fact": "Venus is the only planet to spin clockwise."
+  },
+  {
+    "id": 118,
+    "fact": "Allodoxaphobia is the fear of other people's opinions."
+  },
+  {
+    "id": 119,
+    "fact": "Human teeth are the only part of the body that cannot heal themselves."
+  },
+  {
+    "id": 120,
+    "fact": "Competitive art used to be an Olympic sport."
+  },
+  {
+    "id": 121,
+    "fact": "The first person processed at Ellis Island was a 15-year-old girl from Ireland."
+  },
+  {
+    "id": 122,
+    "fact": "Google Images was created after Jennifer Lopez wore the green dress at the 2000 Grammys."
+  },
+  {
+    "id": 123,
+    "fact": "Lemons float, but limes sink."
+  },
+  {
+    "id": 124,
+    "fact": "The Eiffel Tower was originally made for Barcelona."
+  },
+  {
+    "id": 125,
+    "fact": "It would take 19 minutes to fall to the center of the Earth."
+  },
+  {
+    "id": 126,
+    "fact": "The real name for a hashtag is an octothorpe."
+  },
+  {
+    "id": 127,
+    "fact": "Neil Armstrong's hair was sold in 2004 for $3,000."
+  },
+  {
+    "id": 128,
+    "fact": "The longest English word is 189,819 letters long."
+  },
+  {
+    "id": 129,
+    "fact": "The tiny pocket in jeans was designed to store pocket watches."
+  },
+  {
+    "id": 130,
+    "fact": "People once ate arsenic to improve their skin."
+  },
+  {
+    "id": 131,
+    "fact": "“The Terminator” script was sold for $1."
+  },
+  {
+    "id": 132,
+    "fact": "Penicillin was first called “mold juice.”"
+  },
+  {
+    "id": 133,
+    "fact": "A fear of long words is called Hippopotomonstrosesquippedaliophobia."
+  },
+  {
+    "id": 134,
+    "fact": "The quickest commercial flight in the world is in Scotland."
+  },
+  {
+    "id": 135,
+    "fact": "The first commercial passenger flight lasted only 23 minutes."
+  },
+  {
+    "id": 136,
+    "fact": "No number before 1,000 contains the letter A."
+  },
+  {
+    "id": 137,
+    "fact": "There were active volcanoes on the moon when dinosaurs were alive."
+  },
+  {
+    "id": 138,
+    "fact": "Sudan has more pyramids than any country in the world."
+  },
+  {
+    "id": 139,
+    "fact": "The circulatory system is more than 60,000 miles long."
+  },
+  {
+    "id": 140,
+    "fact": "The Pope can't be an organ donor."
+  },
+  {
+    "id": 141,
+    "fact": "The world's longest concert lasted 453 hours."
+  },
+  {
+    "id": 142,
+    "fact": "Africa is the only continent in all four hemispheres."
+  },
+  {
+    "id": 143,
+    "fact": "All mammals get goosebumps."
+  },
+  {
+    "id": 144,
+    "fact": "Japan has one vending machine for every 40 people."
+  },
+  {
+    "id": 145,
+    "fact": "McDonald's once made bubblegum-flavored broccoli."
+  },
+  {
+    "id": 146,
+    "fact": "Finland has more saunas than cars."
+  },
+  {
+    "id": 147,
+    "fact": "The longest time someone has spent holding their breath underwater is 24 minutes and 37 seconds."
+  },
+  {
+    "id": 148,
+    "fact": "Bats are the only flying mammals."
+  },
+  {
+    "id": 149,
+    "fact": "Sudan has more pyramids than any country in the world"
+  },
+  {
+    "id": 150,
+    "fact": "Dead skin cells are a main ingredient in household dust"
+  },
+  {
+    "id": 151,
+    "fact": "Snakes smell with their tongue."
+  },
+  {
+    "id": 152,
+    "fact": "Buzz Lightyear's original name was Lunar Larry."
+  },
+  {
+    "id": 153,
+    "fact": "A chicken once lived for 18 months without its head."
+  },
+  {
+    "id": 154,
+    "fact": "The world's oldest wooden wheel has been around for more than 5,000 years"
+  },
+  {
+    "id": 155,
+    "fact": "A sheep was the first animal to be cloned."
+  },
+  {
+    "id": 156,
+    "fact": "Ants don't have lungs."
+  },
+  {
+    "id": 157,
+    "fact": "There's a planet made almost entirely of diamonds."
+  },
+  {
+    "id": 158,
+    "fact": "A mile is 5,280 feet long."
+  },
+  {
+    "id": 159,
+    "fact": "Platypuses sweat milk."
+  },
+  {
+    "id": 160,
+    "fact": "Massachusetts is the home of basketball and volleyball."
+  },
+  {
+    "id": 161,
+    "fact": "Bananas glow blue under black lights."
+  },
+  {
+    "id": 162,
+    "fact": "A woman in the United Kingdom called the police when her ice cream didn't have enough sprinkles."
+  },
+  {
+    "id": 163,
+    "fact": "Russia has 11 time zones."
+  },
+  {
+    "id": 164,
+    "fact": "Japan released sushi-inspired Kit Kats."
+  },
+  {
+    "id": 165,
+    "fact": "Comets smell like rotten eggs."
+  },
+  {
+    "id": 166,
+    "fact": "Vatican City is the smallest country in the world."
+  },
+  {
+    "id": 167,
+    "fact": "Bees can fly higher than Mount Everest."
+  },
+  {
+    "id": 168,
+    "fact": "Cap'n Crunch's full name is Horatio Magellan Crunch."
+  },
+  {
+    "id": 169,
+    "fact": "President Theodore Roosevelt had a pet hyena."
+  },
+  {
+    "id": 170,
+    "fact": "The Hollywood sign used to say Hollywoodland."
+  },
+  {
+    "id": 171,
+    "fact": "Peanuts aren't a type of nut."
+  },
+  {
+    "id": 172,
+    "fact": "Blue whale tongues can weigh as much as an elephant."
+  },
+  {
+    "id": 173,
+    "fact": "Skin is the body's largest organ."
+  },
+  {
+    "id": 174,
+    "fact": "The unicorn is the national animal of Scotland."
+  },
+  {
+    "id": 175,
+    "fact": "Fingernails grow faster than toenails."
+  },
+  {
+    "id": 176,
+    "fact": "Giraffe tongues can be 20 inches long."
+  },
+  {
+    "id": 177,
+    "fact": "Sea otters sleep while holding hands."
+  },
+  {
+    "id": 178,
+    "fact": "The Burj Khalifa in Dubai is the world's tallest building."
+  },
+  {
+    "id": 179,
+    "fact": "The largest animal in the world is the blue whale."
+  },
+  {
+    "id": 180,
+    "fact": "The fastest animal is a cheetah."
+  }
+]

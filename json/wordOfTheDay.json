@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "word": "Serendipity",
+    "pronunciation": "/ˌserənˈdipədē/",
+    "part_of_speech": "noun",
+    "definition": "the occurrence of events by chance in a happy or beneficial way."
+  },
+  {
+    "id": 2,
+    "word": "Ephemeral",
+    "pronunciation": "/ɪˈfɛm(ə)r(ə)l/",
+    "part_of_speech": "adjective",
+    "definition": "lasting for a very short time."
+  },
+  {
+    "id": 3,
+    "word": "Quixotic",
+    "pronunciation": "/kwɪkˈsɒtɪk/",
+    "part_of_speech": "adjective",
+    "definition": "exceedingly idealistic; unrealistic and impractical."
+  },
+  {
+    "id": 4,
+    "word": "Effervescent",
+    "pronunciation": "/ˌɛfəˈvɛs(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "vivacious and enthusiastic."
+  },
+  {
+    "id": 5,
+    "word": "Limerence",
+    "pronunciation": "/ˈlɪmɪrəns/",
+    "part_of_speech": "noun",
+    "definition": "the state of being infatuated or obsessed with another person, typically experienced involuntarily and characterized by a strong desire for reciprocation of one's feelings but not primarily for a sexual relationship."
+  },
+  {
+    "id": 6,
+    "word": "Sonder",
+    "pronunciation": "/ˈsɒndə/",
+    "part_of_speech": "noun",
+    "definition": "the realization that each random passerby is living a life as vivid and complex as your own."
+  },
+  {
+    "id": 7,
+    "word": "Petrichor",
+    "pronunciation": "/ˈpɛtrɪkɔː/",
+    "part_of_speech": "noun",
+    "definition": "a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather."
+  },
+  {
+    "id": 8,
+    "word": "Nefelibata",
+    "pronunciation": "/ˌnɛfɪlɪˈbɑːtə/",
+    "part_of_speech": "noun",
+    "definition": "a person who lives in the clouds of their own imagination or dreams; an unconventional, free spirit."
+  },
+  {
+    "id": 9,
+    "word": "Gossamer",
+    "pronunciation": "/ˈɡɒsəmə/",
+    "part_of_speech": "noun",
+    "definition": "a fine, filmy substance consisting of cobwebs spun by small spiders, which is seen especially in autumn."
+  },
+  {
+    "id": 10,
+    "word": "Halcyon",
+    "pronunciation": "/ˈhalsɪən/",
+    "part_of_speech": "adjective",
+    "definition": "denoting a period of time in the past that was idyllically happy and peaceful."
+  },
+  {
+    "id": 11,
+    "word": "Defenestration",
+    "pronunciation": "/ˌdiːfɛnɪˈstreɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "the action of throwing someone out of a window."
+  },
+  {
+    "id": 12,
+    "word": "Bibliopole",
+    "pronunciation": "/ˈbɪblɪəpəʊl/",
+    "part_of_speech": "noun",
+    "definition": "a person who buys and sells books, especially rare ones."
+  },
+  {
+    "id": 13,
+    "word": "Sapiosexual",
+    "pronunciation": "/ˌseɪpɪə(ʊ)ˈsɛkʃjʊəl/",
+    "part_of_speech": "noun",
+    "definition": "a person who finds intelligence sexually attractive or arousing."
+  },
+  {
+    "id": 14,
+    "word": "Ephemeralize",
+    "pronunciation": "/ɪˈfɛm(ə)r(ə)lʌɪz/",
+    "part_of_speech": "verb",
+    "definition": "to cause to appear to be insignificant, by contrast to some greater reality."
+  },
+  {
+    "id": 15,
+    "word": "Plethora",
+    "pronunciation": "/ˈplɛθərə/",
+    "part_of_speech": "noun",
+    "definition": "a large or excessive amount of something."
+  },
+  {
+    "id": 16,
+    "word": "Vicissitude",
+    "pronunciation": "/vɪˈsɪsɪtjuːd/",
+    "part_of_speech": "noun",
+    "definition": "a change of circumstances or fortune, typically one that is unwelcome or unpleasant."
+  },
+  {
+    "id": 17,
+    "word": "Mellifluous",
+    "pronunciation": "/mɛˈlɪfl(j)ʊəs/",
+    "part_of_speech": "adjective",
+    "definition": "sweet or musical; pleasant to hear."
+  },
+  {
+    "id": 18,
+    "word": "Surreptitious",
+    "pronunciation": "/ˌsʌrɛpˈtɪʃəs/",
+    "part_of_speech": "adjective",
+    "definition": "kept secret, especially because it would not be approved of."
+  },
+  {
+    "id": 19,
+    "word": "Nefarious",
+    "pronunciation": "/nɪˈfɛːrɪəs/",
+    "part_of_speech": "adjective",
+    "definition": "wicked or criminal."
+  },
+  {
+    "id": 20,
+    "word": "Serendipitous",
+    "pronunciation": "/ˌserənˈdɪpɪtəs/",
+    "part_of_speech": "adjective",
+    "definition": "occurring or discovered by chance in a happy or beneficial way."
+  },
+  {
+    "id": 21,
+    "word": "Aurora",
+    "pronunciation": "/ɔːˈrɔːrə/",
+    "part_of_speech": "noun",
+    "definition": "the dawn."
+  },
+  {
+    "id": 22,
+    "word": "Bucolic",
+    "pronunciation": "/bjuːˈkɒlɪk/",
+    "part_of_speech": "adjective",
+    "definition": "relating to the pleasant aspects of the countryside and country life."
+  },
+  {
+    "id": 23,
+    "word": "Querulous",
+    "pronunciation": "/ˈkwɛrjʊləs/",
+    "part_of_speech": "adjective",
+    "definition": "complaining in a petulant or whining manner."
+  },
+  {
+    "id": 24,
+    "word": "Penumbra",
+    "pronunciation": "/pɪˈnʌmbrə/",
+    "part_of_speech": "noun",
+    "definition": "the partially shaded outer region of the shadow cast by an opaque object."
+  },
+  {
+    "id": 25,
+    "word": "Halcyon",
+    "pronunciation": "/ˈhalsɪən/",
+    "part_of_speech": "noun",
+    "definition": "a mythical bird said by ancient writers to breed in a nest floating at sea at the winter solstice, charming the wind and waves into calm."
+  },
+  {
+    "id": 26,
+    "word": "Phantasmagoria",
+    "pronunciation": "/ˌfantazməˈɡɔːrɪə/",
+    "part_of_speech": "noun",
+    "definition": "a sequence of real or imaginary images like those seen in a dream."
+  },
+  {
+    "id": 27,
+    "word": "Quotidian",
+    "pronunciation": "/kwəʊˈtɪdɪən/",
+    "part_of_speech": "adjective",
+    "definition": "occurring daily; commonplace."
+  },
+  {
+    "id": 28,
+    "word": "Vespertine",
+    "pronunciation": "/ˈvɛspətiːn/",
+    "part_of_speech": "adjective",
+    "definition": "occurring in the evening."
+  },
+  {
+    "id": 29,
+    "word": "Crepuscular",
+    "pronunciation": "/krɪˈpʌskjʊlə/",
+    "part_of_speech": "adjective",
+    "definition": "relating to or resembling twilight."
+  },
+  {
+    "id": 30,
+    "word": "Nemesis",
+    "pronunciation": "/ˈnɛmɪsɪs/",
+    "part_of_speech": "noun",
+    "definition": "the inescapable agent of someone's or something's downfall."
+  },
+  {
+    "id": 31,
+    "word": "Supine",
+    "pronunciation": "/ˈsuːpʌɪn/",
+    "part_of_speech": "adjective",
+    "definition": "lying face upwards."
+  },
+  {
+    "id": 32,
+    "word": "Sagacious",
+    "pronunciation": "/səˈɡeɪʃəs/",
+    "part_of_speech": "adjective",
+    "definition": "having or showing keen mental discernment and good judgment; wise or shrewd."
+  },
+  {
+    "id": 33,
+    "word": "Cacophony",
+    "pronunciation": "/kəˈkɒf(ə)ni/",
+    "part_of_speech": "noun",
+    "definition": "a harsh, discordant mixture of sounds."
+  },
+  {
+    "id": 34,
+    "word": "Ebullient",
+    "pronunciation": "/ɪˈbʌlɪənt/",
+    "part_of_speech": "adjective",
+    "definition": "cheerful and full of energy."
+  },
+  {
+    "id": 35,
+    "word": "Lachrymose",
+    "pronunciation": "/ˈlakrɪməʊs/",
+    "part_of_speech": "adjective",
+    "definition": "tearful or given to weeping."
+  },
+  {
+    "id": 36,
+    "word": "Solipsism",
+    "pronunciation": "/ˈsɒlɪpsɪz(ə)m/",
+    "part_of_speech": "noun",
+    "definition": "the view or theory that the self is all that can be known to exist."
+  },
+  {
+    "id": 37,
+    "word": "Obfuscate",
+    "pronunciation": "/ˈɒbfʌskeɪt/",
+    "part_of_speech": "verb",
+    "definition": "render obscure, unclear, or unintelligible."
+  },
+  {
+    "id": 38,
+    "word": "Melancholy",
+    "pronunciation": "/ˈmɛlənkəli/",
+    "part_of_speech": "noun",
+    "definition": "a feeling of pensive sadness, typically with no obvious cause."
+  },
+  {
+    "id": 39,
+    "word": "Diaphanous",
+    "pronunciation": "/dʌɪˈaf(ə)nəs/",
+    "part_of_speech": "adjective",
+    "definition": "light, delicate, and translucent."
+  },
+  {
+    "id": 40,
+    "word": "Pulchritude",
+    "pronunciation": "/ˈpʌlkrɪtjuːd/",
+    "part_of_speech": "noun",
+    "definition": "beauty."
+  },
+  {
+    "id": 41,
+    "word": "Sesquipedalian",
+    "pronunciation": "/ˌsɛskwɪpɪˈdeɪlɪən/",
+    "part_of_speech": "adjective",
+    "definition": "(of a word) polysyllabic; long."
+  },
+  {
+    "id": 42,
+    "word": "Obsequious",
+    "pronunciation": "/əbˈsiːkwɪəs/",
+    "part_of_speech": "adjective",
+    "definition": "obedient or attentive to an excessive or servile degree."
+  },
+  {
+    "id": 43,
+    "word": "Tenebrous",
+    "pronunciation": "/ˈtɛnɪbrəs/",
+    "part_of_speech": "adjective",
+    "definition": "dark; shadowy or obscure."
+  },
+  {
+    "id": 44,
+    "word": "Pulchritudinous",
+    "pronunciation": "/ˌpʌlkrɪˈtjuːdɪnəs/",
+    "part_of_speech": "adjective",
+    "definition": "breathtakingly beautiful."
+  },
+  {
+    "id": 45,
+    "word": "Quintessential",
+    "pronunciation": "/ˌkwɪntɪˈsɛnʃ(ə)l/",
+    "part_of_speech": "adjective",
+    "definition": "representing the most perfect or typical example of a quality or class."
+  },
+  {
+    "id": 46,
+    "word": "Obstreperous",
+    "pronunciation": "/əbˈstrɛp(ə)rəs/",
+    "part_of_speech": "adjective",
+    "definition": "noisy and difficult to control."
+  },
+  {
+    "id": 47,
+    "word": "Supercilious",
+    "pronunciation": "/ˌsuːpəˈsɪlɪəs/",
+    "part_of_speech": "adjective",
+    "definition": "behaving or looking as though one thinks one is superior to others."
+  },
+  {
+    "id": 48,
+    "word": "Sibilant",
+    "pronunciation": "/ˈsɪbɪl(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "making or characterized by a hissing sound."
+  },
+  {
+    "id": 49,
+    "word": "Effulgent",
+    "pronunciation": "/ɪˈfʌl(d)ʒ(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "shining brightly; radiant."
+  },
+  {
+    "id": 50,
+    "word": "Ethereal",
+    "pronunciation": "/ɪˈθɪərɪəl/",
+    "part_of_speech": "adjective",
+    "definition": "extremely delicate and light in a way that seems too perfect for this world."
+  },
+  {
+    "id": 51,
+    "word": "casserole",
+    "pronunciation": "/ˈkas(ə)rəʊl/",
+    "part_of_speech": "noun",
+    "definition": "A dish, typically made in an oven, consisting of meat or vegetables cooked slowly in liquid."
+  },
+  {
+    "id": 52,
+    "word": "wheelhouse",
+    "pronunciation": "/ˈwiːlhaʊs/",
+    "part_of_speech": "noun",
+    "definition": "The part of a boat or ship serving as the shelter for the person at the wheel."
+  },
+  {
+    "id": 53,
+    "word": "effulgence",
+    "pronunciation": "/ɪˈfʌldʒ(ə)ns/",
+    "part_of_speech": "noun",
+    "definition": "A brilliant radiance; a shining forth."
+  },
+  {
+    "id": 54,
+    "word": "imperious",
+    "pronunciation": "/ɪmˈpɪərɪəs/",
+    "part_of_speech": "adjective",
+    "definition": "Assuming power or authority without justification; arrogant and domineering."
+  },
+  {
+    "id": 55,
+    "word": "benign",
+    "pronunciation": "/bɪˈnʌɪn/",
+    "part_of_speech": "adjective",
+    "definition": "Gentle and kind."
+  },
+  {
+    "id": 56,
+    "word": "refulgent",
+    "pronunciation": "/rɪˈfʌldʒ(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "Shining brightly; radiant."
+  },
+  {
+    "id": 57,
+    "word": "krill",
+    "pronunciation": "/krɪl/",
+    "part_of_speech": "noun",
+    "definition": "Small shrimp-like planktonic crustaceans that form a mass in open water, on which whales and other animals feed."
+  },
+  {
+    "id": 58,
+    "word": "chockablock",
+    "pronunciation": "/ˌtʃɒkəˈblɒk/",
+    "part_of_speech": "adjective",
+    "definition": "Crammed full of things."
+  },
+  {
+    "id": 59,
+    "word": "bonanza",
+    "pronunciation": "/bəˈnanzə/",
+    "part_of_speech": "noun",
+    "definition": "A situation or event that creates a sudden increase in wealth, good fortune, or profits."
+  },
+  {
+    "id": 60,
+    "word": "dinghy",
+    "pronunciation": "/ˈdɪŋɡi/",
+    "part_of_speech": "noun",
+    "definition": "A small boat for recreation or racing, especially an open one with a mast and sails."
+  },
+  {
+    "id": 61,
+    "word": "obstreperous",
+    "pronunciation": "/əbˈstrɛp(ə)rəs/",
+    "part_of_speech": "adjective",
+    "definition": "Noisy and difficult to control."
+  },
+  {
+    "id": 62,
+    "word": "argyle",
+    "pronunciation": "/ˈɑːɡʌɪl/",
+    "part_of_speech": "noun",
+    "definition": "A pattern composed of diamonds of varying color set in a diagonal checkerboard."
+  },
+  {
+    "id": 63,
+    "word": "communique",
+    "pronunciation": "/kəˈmjuːnɪkeɪ/",
+    "part_of_speech": "noun",
+    "definition": "An official announcement or statement, especially one made to the media."
+  },
+  {
+    "id": 64,
+    "word": "cauldron",
+    "pronunciation": "/ˈkɔːldrən/",
+    "part_of_speech": "noun",
+    "definition": "A large metal pot with a lid and handle, used for cooking over an open fire."
+  },
+  {
+    "id": 65,
+    "word": "dovetail",
+    "pronunciation": "/ˈdʌvteɪl/",
+    "part_of_speech": "verb",
+    "definition": "Fit together tightly, as if by means of a dovetail joint."
+  },
+  {
+    "id": 66,
+    "word": "rejoinder",
+    "pronunciation": "/rɪˈdʒɔɪndə/",
+    "part_of_speech": "noun",
+    "definition": "A reply, especially a sharp or witty one."
+  },
+  {
+    "id": 67,
+    "word": "acerbic",
+    "pronunciation": "/əˈsəːbɪk/",
+    "part_of_speech": "adjective",
+    "definition": "Sharp and forthright."
+  },
+  {
+    "id": 68,
+    "word": "inauspicious",
+    "pronunciation": "/ɪnˈɔːspɪʃəs/",
+    "part_of_speech": "adjective",
+    "definition": "Not conducive to success; unpromising."
+  },
+  {
+    "id": 69,
+    "word": "perspicacious",
+    "pronunciation": "/ˌpəːspɪˈkeɪʃəs/",
+    "part_of_speech": "adjective",
+    "definition": "Having a ready insight into and understanding of things."
+  },
+  {
+    "id": 70,
+    "word": "jabberwocky",
+    "pronunciation": "/ˈdʒabəwɒki/",
+    "part_of_speech": "noun",
+    "definition": "Language or writing that is meaningless or made-up."
+  },
+  {
+    "id": 71,
+    "word": "lagniappe",
+    "pronunciation": "/ˈlanjap/",
+    "part_of_speech": "noun",
+    "definition": "A small additional gift or bonus."
+  },
+  {
+    "id": 72,
+    "word": "rappel",
+    "pronunciation": "/ræˈpɛl/",
+    "part_of_speech": "verb",
+    "definition": "Descend a rock face or other near-vertical surface by using a doubled rope coiled around the body and fixed at a higher point."
+  },
+  {
+    "id": 73,
+    "word": "caravel",
+    "pronunciation": "/ˈkarəvɛl/",
+    "part_of_speech": "noun",
+    "definition": "A small, fast Spanish or Portuguese sailing ship of the 15th-17th centuries."
+  },
+  {
+    "id": 74,
+    "word": "bombast",
+    "pronunciation": "/ˈbɒmbast/",
+    "part_of_speech": "noun",
+    "definition": "High-sounding language with little meaning, used to impress people."
+  },
+  {
+    "id": 75,
+    "word": "boisterous",
+    "pronunciation": "/ˈbɔɪst(ə)rəs/",
+    "part_of_speech": "adjective",
+    "definition": "Noisy, energetic, and cheerful; rowdy."
+  },
+  {
+    "id": 76,
+    "word": "gusto",
+    "pronunciation": "/ˈɡʌstəʊ/",
+    "part_of_speech": "noun",
+    "definition": "Enjoyment or vigor in doing something; zest."
+  },
+  {
+    "id": 77,
+    "word": "grapheme",
+    "pronunciation": "/ˈɡrafēm/",
+    "part_of_speech": "noun",
+    "definition": "The smallest meaningful contrastive unit in a writing system."
+  },
+  {
+    "id": 78,
+    "word": "globule",
+    "pronunciation": "/ˈɡlɒbjʊl/",
+    "part_of_speech": "noun",
+    "definition": "A small round particle of a substance; a drop."
+  },
+  {
+    "id": 79,
+    "word": "cerebellum",
+    "pronunciation": "/ˌsɛrɪˈbɛləm/",
+    "part_of_speech": "noun",
+    "definition": "The part of the brain at the back of the skull in vertebrates. Its function is to coordinate and regulate muscular activity."
+  },
+  {
+    "id": 80,
+    "word": "febrile",
+    "pronunciation": "/ˈfiːbrʌɪl/",
+    "part_of_speech": "adjective",
+    "definition": "Having or showing the symptoms of a fever."
+  },
+  {
+    "id": 81,
+    "word": "higgledy-piggledy",
+    "pronunciation": "/ˌhɪɡ(ə)ldi ˈpɪɡ(ə)ldi/",
+    "part_of_speech": "adverb",
+    "definition": "In confusion or disorder."
+  },
+  {
+    "id": 82,
+    "word": "defenestration",
+    "pronunciation": "/diːˌfɛnɪˈstreɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The action of throwing someone out of a window."
+  },
+  {
+    "id": 83,
+    "word": "alfresco",
+    "pronunciation": "/alˈfreskō/",
+    "part_of_speech": "adverb",
+    "definition": "In the open air."
+  },
+  {
+    "id": 84,
+    "word": "adventitious",
+    "pronunciation": "/ˌadvɛnˈtɪʃəs/",
+    "part_of_speech": "adjective",
+    "definition": "Happening or carried on according to chance rather than design or inherent nature."
+  },
+  {
+    "id": 85,
+    "word": "firebrand",
+    "pronunciation": "/ˈfʌɪəˌbrand/",
+    "part_of_speech": "noun",
+    "definition": "A person who is passionate about a particular cause, typically inciting change and taking radical action."
+  },
+  {
+    "id": 86,
+    "word": "damask",
+    "pronunciation": "/ˈdaməsk/",
+    "part_of_speech": "noun",
+    "definition": "A figured woven fabric with a pattern visible on both sides, typically used for table linen and upholstery."
+  },
+  {
+    "id": 87,
+    "word": "chiffonade",
+    "pronunciation": "/ʃɪfəˈnɑːd/",
+    "part_of_speech": "noun",
+    "definition": "A preparation of shredded or finely cut leaf vegetables, used as a garnish for soup."
+  },
+  {
+    "id": 88,
+    "word": "elision",
+    "pronunciation": "/ɪˈlɪʒ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The omission of a sound or syllable when speaking (as in I’m, let’s)."
+  },
+  {
+    "id": 89,
+    "word": "flocculent",
+    "pronunciation": "/ˈflɒkjʊl(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "Having or resembling tufts of wool."
+  },
+  {
+    "id": 90,
+    "word": "homologous",
+    "pronunciation": "/hɒˈmɒləɡəs/",
+    "part_of_speech": "adjective",
+    "definition": "Having the same relation, relative position, or structure."
+  },
+  {
+    "id": 91,
+    "word": "emolument",
+    "pronunciation": "/ɪˈmɒljʊm(ə)nt/",
+    "part_of_speech": "noun",
+    "definition": "A salary, fee, or profit from employment or office."
+  },
+  {
+    "id": 92,
+    "word": "felicitous",
+    "pronunciation": "/fɪˈlɪsɪtəs/",
+    "part_of_speech": "adjective",
+    "definition": "Well chosen or suited to the circumstances."
+  },
+  {
+    "id": 93,
+    "word": "efface",
+    "pronunciation": "/ɪˈfeɪs/",
+    "part_of_speech": "verb",
+    "definition": "Make oneself appear insignificant or inconspicuous."
+  },
+  {
+    "id": 94,
+    "word": "brouhaha",
+    "pronunciation": "/ˈbruːhɑːhɑː/",
+    "part_of_speech": "noun",
+    "definition": "A noisy and overexcited reaction or response to something."
+  },
+  {
+    "id": 95,
+    "word": "happenstance",
+    "pronunciation": "/ˈhap(ə)nˌstans/",
+    "part_of_speech": "noun",
+    "definition": "A coincidence."
+  },
+  {
+    "id": 96,
+    "word": "doozy",
+    "pronunciation": "/ˈduːzi/",
+    "part_of_speech": "noun",
+    "definition": "Something outstanding or unique of its kind."
+  },
+  {
+    "id": 97,
+    "word": "chutzpah",
+    "pronunciation": "/ˈxʊtspə,ˈhʊtspə/",
+    "part_of_speech": "noun",
+    "definition": "Shameless audacity; impudence."
+  },
+  {
+    "id": 98,
+    "word": "cachinnate",
+    "pronunciation": "/ˈkakɪneɪt/",
+    "part_of_speech": "verb",
+    "definition": "Laugh loudly or immoderately."
+  },
+  {
+    "id": 99,
+    "word": "gerrymander",
+    "pronunciation": "/ˈdʒɛrɪmandə/",
+    "part_of_speech": "verb",
+    "definition": "Manipulate the boundaries of (an electoral constituency) so as to favor one party or class."
+  },
+  {
+    "id": 100,
+    "word": "balaclava",
+    "pronunciation": "/ˌbaləˈklɑːvə/",
+    "part_of_speech": "noun",
+    "definition": "A close-fitting garment covering the whole head and neck except for parts of the face, typically made of wool."
+  },
+  {
+    "id": 101,
+    "word": "acquiesce",
+    "pronunciation": "/ˌakwēˈes/",
+    "part_of_speech": "verb",
+    "definition": "Accept something reluctantly but without protest."
+  },
+  {
+    "id": 102,
+    "word": "bibliophile",
+    "pronunciation": "/ˈbɪbliə(ʊ)fʌɪl/",
+    "part_of_speech": "noun",
+    "definition": "A person who collects or has a great love of books."
+  },
+  {
+    "id": 103,
+    "word": "cogitation",
+    "pronunciation": "/ˌkɒdʒɪˈteɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The action of thinking deeply about something; contemplation."
+  },
+  {
+    "id": 104,
+    "word": "bloviate",
+    "pronunciation": "/ˈbləʊvɪeɪt/",
+    "part_of_speech": "verb",
+    "definition": "Talk at length, especially in an inflated or empty way."
+  },
+  {
+    "id": 105,
+    "word": "dictum",
+    "pronunciation": "/ˈdɪktəm/",
+    "part_of_speech": "noun",
+    "definition": "A formal pronouncement from an authoritative source."
+  },
+  {
+    "id": 106,
+    "word": "hegemony",
+    "pronunciation": "/hɪˈdʒɛməni/",
+    "part_of_speech": "noun",
+    "definition": "Leadership or dominance, especially by one state or social group over others."
+  },
+  {
+    "id": 107,
+    "word": "gadabout",
+    "pronunciation": "/ˈɡadəˌbaʊt/",
+    "part_of_speech": "noun",
+    "definition": "A person who travels often or to many different places, especially for pleasure."
+  },
+  {
+    "id": 108,
+    "word": "echolocation",
+    "pronunciation": "/ˌɛkəʊlə(ʊ)ˈkeɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The location of objects by reflected sound, in particular that used by animals such as dolphins and bats."
+  },
+  {
+    "id": 109,
+    "word": "agitprop",
+    "pronunciation": "/ˈadʒɪtprɒp/",
+    "part_of_speech": "noun",
+    "definition": "Political (originally communist) propaganda, especially in art or literature."
+  },
+  {
+    "id": 110,
+    "word": "doppelganger",
+    "pronunciation": "/ˈdɒp(ə)lˌɡaŋə/",
+    "part_of_speech": "noun",
+    "definition": "An apparition or double of a living person."
+  },
+  {
+    "id": 111,
+    "word": "abnegation",
+    "pronunciation": "/abnɪˈɡeɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The act of renouncing or rejecting something."
+  },
+  {
+    "id": 112,
+    "word": "labyrinthine",
+    "pronunciation": "/ˌlab(ə)ˈrɪnθʌɪn/",
+    "part_of_speech": "adjective",
+    "definition": "Complicated and confusing."
+  },
+  {
+    "id": 113,
+    "word": "juxtaposition",
+    "pronunciation": "/ˌdʒʌkstəpəˈzɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The fact of two things being seen or placed close together with contrasting effect."
+  },
+  {
+    "id": 114,
+    "word": "jaunty",
+    "pronunciation": "/ˈdʒɔːnti/",
+    "part_of_speech": "adjective",
+    "definition": "Having or expressing a lively, cheerful, and self-confident manner."
+  },
+  {
+    "id": 115,
+    "word": "joie de vivre",
+    "pronunciation": "/ˌʒwɑː də ˈviv(ə)r/",
+    "part_of_speech": "noun",
+    "definition": "A keen enjoyment of living; exuberance."
+  },
+  {
+    "id": 116,
+    "word": "imprimatur",
+    "pronunciation": "/ˌɪmprɪˈmatə/",
+    "part_of_speech": "noun",
+    "definition": "An official license by the Roman Catholic Church to print an ecclesiastical or religious book."
+  },
+  {
+    "id": 117,
+    "word": "quaternary",
+    "pronunciation": "/ˈkwɒtən(ə)ri/",
+    "part_of_speech": "adjective",
+    "definition": "Consisting of four parts."
+  },
+  {
+    "id": 118,
+    "word": "wheedle",
+    "pronunciation": "/ˈwiːd(ə)l/",
+    "part_of_speech": "verb",
+    "definition": "Employ endearments or flattery to persuade someone to do something or give one something."
+  },
+  {
+    "id": 119,
+    "word": "tensile",
+    "pronunciation": "/ˈtɛnsʌɪl/",
+    "part_of_speech": "adjective",
+    "definition": "Of or relating to tension."
+  },
+  {
+    "id": 120,
+    "word": "postprandial",
+    "pronunciation": "/pəʊstˈprandɪəl/",
+    "part_of_speech": "adjective",
+    "definition": "Occurring or done after eating a meal."
+  },
+  {
+    "id": 121,
+    "word": "casuistry",
+    "pronunciation": "/ˈkazjʊɪstri/",
+    "part_of_speech": "noun",
+    "definition": "The use of clever but unsound reasoning, especially in relation to moral questions; sophistry."
+  },
+  {
+    "id": 122,
+    "word": "harangue",
+    "pronunciation": "/həˈraŋ/",
+    "part_of_speech": "noun",
+    "definition": "A lengthy and aggressive speech."
+  },
+  {
+    "id": 123,
+    "word": "caesura",
+    "pronunciation": "/sɪˈzjʊərə/",
+    "part_of_speech": "noun",
+    "definition": "A pause or break in a line of verse."
+  },
+  {
+    "id": 124,
+    "word": "ornithology",
+    "pronunciation": "/ˌɔːnɪˈθɒlədʒi/",
+    "part_of_speech": "noun",
+    "definition": "The scientific study of birds."
+  },
+  {
+    "id": 125,
+    "word": "eclat",
+    "pronunciation": "/eɪˈklat/",
+    "part_of_speech": "noun",
+    "definition": "Brilliant display or effect."
+  },
+  {
+    "id": 126,
+    "word": "utilitarian",
+    "pronunciation": "/juːˌtɪlɪˈtɛːrɪən/",
+    "part_of_speech": "adjective",
+    "definition": "Designed to be useful or practical rather than attractive."
+  },
+  {
+    "id": 127,
+    "word": "octogenarian",
+    "pronunciation": "/ˌɒktədʒɪˈnɛːrɪən/",
+    "part_of_speech": "noun",
+    "definition": "A person who is between 80 and 89 years old."
+  },
+  {
+    "id": 128,
+    "word": "harrow",
+    "pronunciation": "/ˈharəʊ/",
+    "part_of_speech": "verb",
+    "definition": "Cause distress to."
+  },
+  {
+    "id": 129,
+    "word": "flabbergasted",
+    "pronunciation": "/ˈflabəɡastɪd/",
+    "part_of_speech": "adjective",
+    "definition": "Surprise (someone) greatly; astonish."
+  },
+  {
+    "id": 130,
+    "word": "megalopolis",
+    "pronunciation": "/ˌmɛɡəˈlɒp(ə)lɪs/",
+    "part_of_speech": "noun",
+    "definition": "A very large, heavily populated city or urban complex."
+  },
+  {
+    "id": 131,
+    "word": "delude",
+    "pronunciation": "/dɪˈluːd/",
+    "part_of_speech": "verb",
+    "definition": "Impose a misleading belief upon (someone); deceive; fool."
+  },
+  {
+    "id": 132,
+    "word": "pamper",
+    "pronunciation": "/ˈpampə/",
+    "part_of_speech": "verb",
+    "definition": "Indulge with every attention, comfort, and kindness; spoil."
+  },
+  {
+    "id": 133,
+    "word": "zephyr",
+    "pronunciation": "/ˈzɛfə/",
+    "part_of_speech": "noun",
+    "definition": "A soft gentle breeze."
+  },
+  {
+    "id": 134,
+    "word": "genome",
+    "pronunciation": "/ˈdʒiːnəʊm/",
+    "part_of_speech": "noun",
+    "definition": "The complete set of genes or genetic material present in a cell or organism."
+  },
+  {
+    "id": 135,
+    "word": "idiolect",
+    "pronunciation": "/ˈɪdɪəlɛkt/",
+    "part_of_speech": "noun",
+    "definition": "The speech habits peculiar to a particular person."
+  },
+  {
+    "id": 136,
+    "word": "ludicrous",
+    "pronunciation": "/ˈluːdɪkrəs/",
+    "part_of_speech": "adjective",
+    "definition": "So foolish, unreasonable, or out of place as to be amusing; ridiculous."
+  },
+  {
+    "id": 137,
+    "word": "umbrage",
+    "pronunciation": "/ˈʌmbrɪdʒ/",
+    "part_of_speech": "noun",
+    "definition": "Offense or annoyance."
+  },
+  {
+    "id": 138,
+    "word": "deciduous",
+    "pronunciation": "/dɪˈsɪdjʊəs/",
+    "part_of_speech": "adjective",
+    "definition": "Shedding its leaves annually."
+  },
+  {
+    "id": 139,
+    "word": "histrionic",
+    "pronunciation": "/hɪstrɪˈɒnɪk/",
+    "part_of_speech": "adjective",
+    "definition": "Overly theatrical or melodramatic in character or style."
+  },
+  {
+    "id": 140,
+    "word": "cerulean",
+    "pronunciation": "/sɪˈruːliən/",
+    "part_of_speech": "adjective",
+    "definition": "Deep sky-blue in color like a clear daytime sky."
+  },
+  {
+    "id": 141,
+    "word": "quash",
+    "pronunciation": "/kwɒʃ/",
+    "part_of_speech": "verb",
+    "definition": "Reject or void, especially by legal procedure."
+  },
+  {
+    "id": 142,
+    "word": "jibe",
+    "pronunciation": "/dʒʌɪb/",
+    "part_of_speech": "verb",
+    "definition": "Be in agreement."
+  },
+  {
+    "id": 143,
+    "word": "neophyte",
+    "pronunciation": "/ˈniːəʊfʌɪt/",
+    "part_of_speech": "noun",
+    "definition": "A person who is new to a subject, skill, or belief."
+  },
+  {
+    "id": 144,
+    "word": "lugubrious",
+    "pronunciation": "/luːˈɡjuːbrɪəs/",
+    "part_of_speech": "adjective",
+    "definition": "Looking or sounding sad and dismal."
+  },
+  {
+    "id": 145,
+    "word": "wisecrack",
+    "pronunciation": "/ˈwʌɪzkrak/",
+    "part_of_speech": "noun",
+    "definition": "A clever or sarcastic remark."
+  },
+  {
+    "id": 146,
+    "word": "litigious",
+    "pronunciation": "/lɪˈtɪdʒəs/",
+    "part_of_speech": "adjective",
+    "definition": "Prone to engage in lawsuits."
+  },
+  {
+    "id": 147,
+    "word": "jejune",
+    "pronunciation": "/dʒɪˈdʒuːn/",
+    "part_of_speech": "adjective",
+    "definition": "Naive, simplistic, and superficial."
+  },
+  {
+    "id": 148,
+    "word": "haggle",
+    "pronunciation": "/ˈhaɡ(ə)l/",
+    "part_of_speech": "verb",
+    "definition": "Dispute or bargain persistently, especially over the cost of something."
+  },
+  {
+    "id": 149,
+    "word": "rectify",
+    "pronunciation": "/ˈrɛktɪfʌɪ/",
+    "part_of_speech": "verb",
+    "definition": "Put right; correct."
+  },
+  {
+    "id": 150,
+    "word": "nomenclature",
+    "pronunciation": "/nə(ʊ)ˈmɛŋklətʃə/",
+    "part_of_speech": "noun",
+    "definition": "The devising or choosing of names for things, especially in a science or other discipline."
+  },
+  {
+    "id": 151,
+    "word": "absquatulate",
+    "pronunciation": "/ˌabskwɒtjʊˈleɪt/",
+    "part_of_speech": "verb",
+    "definition": "Leave abruptly."
+  },
+  {
+    "id": 152,
+    "word": "macaronic",
+    "pronunciation": "/ˌmakəˈrɒnɪk/",
+    "part_of_speech": "adjective",
+    "definition": "Denoting or characterized by a mixture of languages."
+  },
+  {
+    "id": 153,
+    "word": "obsolescent",
+    "pronunciation": "/ˌɒbsəˈlɛs(ə)nt/",
+    "part_of_speech": "adjective",
+    "definition": "Becoming obsolete."
+  },
+  {
+    "id": 154,
+    "word": "carapace",
+    "pronunciation": "/ˈkarəpeɪs/",
+    "part_of_speech": "noun",
+    "definition": "The hard upper shell of a turtle, crustacean, or arachnid."
+  },
+  {
+    "id": 155,
+    "word": "plebiscite",
+    "pronunciation": "/ˈplɛbɪsʌɪt/",
+    "part_of_speech": "noun",
+    "definition": "A direct vote by the electorate of a country or region on a particular proposal."
+  },
+  {
+    "id": 156,
+    "word": "factotum",
+    "pronunciation": "/fakˈtəʊtəm/",
+    "part_of_speech": "noun",
+    "definition": "An employee who does all kinds of work."
+  },
+  {
+    "id": 157,
+    "word": "centrifuge",
+    "pronunciation": "/ˈsɛntrɪfjuːdʒ/",
+    "part_of_speech": "noun",
+    "definition": "A machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate fluids of different densities or liquids from solids."
+  },
+  {
+    "id": 158,
+    "word": "bildungsroman",
+    "pronunciation": "/ˌbɪldʊŋzrəˈmɑːn/",
+    "part_of_speech": "noun",
+    "definition": "A novel dealing with one person's formative years or spiritual education."
+  },
+  {
+    "id": 159,
+    "word": "beeline",
+    "pronunciation": "/ˈbiːlʌɪn/",
+    "part_of_speech": "noun",
+    "definition": "A straight line between two places."
+  },
+  {
+    "id": 160,
+    "word": "rebus",
+    "pronunciation": "/ˈriːbəs/",
+    "part_of_speech": "noun",
+    "definition": "A puzzle consisting of pictures representing words or parts of words."
+  },
+  {
+    "id": 161,
+    "word": "gewgaw",
+    "pronunciation": "/ˈɡjuːɡɔː/",
+    "part_of_speech": "noun",
+    "definition": "A showy thing, especially one that is useless or worthless."
+  },
+  {
+    "id": 162,
+    "word": "rickshaw",
+    "pronunciation": "/ˈrɪkʃɔː/",
+    "part_of_speech": "noun",
+    "definition": "A light two-wheeled hooded vehicle drawn by one or more people, used chiefly in Asian countries."
+  },
+  {
+    "id": 163,
+    "word": "canto",
+    "pronunciation": "/ˈkantəʊ/",
+    "part_of_speech": "noun",
+    "definition": "One of the sections into which certain long poems are divided."
+  },
+  {
+    "id": 164,
+    "word": "unfeigned",
+    "pronunciation": "/ʌnˈfeɪnd/",
+    "part_of_speech": "adjective",
+    "definition": "Genuine; sincere."
+  },
+  {
+    "id": 165,
+    "word": "palette",
+    "pronunciation": "/ˈpalɪt/",
+    "part_of_speech": "noun",
+    "definition": "A thin board or slab on which an artist lays and mixes colors."
+  },
+  {
+    "id": 166,
+    "word": "coda",
+    "pronunciation": "/ˈkəʊdə/",
+    "part_of_speech": "noun",
+    "definition": "A concluding event, remark, or section."
+  },
+  {
+    "id": 167,
+    "word": "luau",
+    "pronunciation": "/ˈluːaʊ/",
+    "part_of_speech": "noun",
+    "definition": "A Hawaiian party or feast, especially one accompanied by entertainment."
+  },
+  {
+    "id": 168,
+    "word": "panoply",
+    "pronunciation": "/ˈpanəpli/",
+    "part_of_speech": "noun",
+    "definition": "A complete or impressive collection of things."
+  },
+  {
+    "id": 169,
+    "word": "blatherskite",
+    "pronunciation": "/ˈblaðəskaɪt/",
+    "part_of_speech": "noun",
+    "definition": "A person who talks at great length without making much sense."
+  },
+  {
+    "id": 170,
+    "word": "lede",
+    "pronunciation": "/liːd/",
+    "part_of_speech": "noun",
+    "definition": "The introductory section of a news story, intended to entice the reader into reading the full story."
+  },
+  {
+    "id": 171,
+    "word": "virologist",
+    "pronunciation": "/ˌvaɪˈrɒlədʒɪst/",
+    "part_of_speech": "noun",
+    "definition": "A scientist who studies viruses and viral diseases."
+  },
+  {
+    "id": 172,
+    "word": "heyday",
+    "pronunciation": "/ˈheɪdeɪ/",
+    "part_of_speech": "noun",
+    "definition": "The period of a person's or thing's greatest success, popularity, or vigour."
+  },
+  {
+    "id": 173,
+    "word": "bucolic",
+    "pronunciation": "/bjuːˈkɒlɪk/",
+    "part_of_speech": "adjective",
+    "definition": "Relating to the pleasant aspects of the countryside and country life."
+  },
+  {
+    "id": 174,
+    "word": "chthonic",
+    "pronunciation": "/ˈθɒnɪk/",
+    "part_of_speech": "adjective",
+    "definition": "Concerning, belonging to, or inhabiting the underworld."
+  },
+  {
+    "id": 175,
+    "word": "verbatim",
+    "pronunciation": "/vəːˈbeɪtɪm/",
+    "part_of_speech": "adverb",
+    "definition": "In exactly the same words as were used originally."
+  },
+  {
+    "id": 176,
+    "word": "gibbous",
+    "pronunciation": "/ˈdʒɪbəs/",
+    "part_of_speech": "adjective",
+    "definition": "(of the moon or a planet) having the observable illuminated part greater than a semicircle and less than a circle."
+  },
+  {
+    "id": 177,
+    "word": "braggadocio",
+    "pronunciation": "/ˌbræɡəˈdəʊsɪəʊ/",
+    "part_of_speech": "noun",
+    "definition": "Boastful or arrogant behaviour."
+  },
+  {
+    "id": 178,
+    "word": "castigate",
+    "pronunciation": "/ˈkastɪɡeɪt/",
+    "part_of_speech": "verb",
+    "definition": "Reprimand (someone) severely."
+  },
+  {
+    "id": 179,
+    "word": "volition",
+    "pronunciation": "/vəˈlɪʃ(ə)n/",
+    "part_of_speech": "noun",
+    "definition": "The faculty or power of using one's will."
+  },
+  {
+    "id": 180,
+    "word": "ineluctable",
+    "pronunciation": "/ɪˈnɛlʌktəb(ə)l/",
+    "part_of_speech": "adjective",
+    "definition": "Unable to be resisted or avoided; inescapable."
+  },
+  {
+    "id": 181,
+    "word": "ductile",
+    "pronunciation": "/ˈdʌktʌɪl/",
+    "part_of_speech": "adjective",
+    "definition": "Able to be drawn out into a thin wire."
+  },
+  {
+    "id": 182,
+    "word": "somnambulist",
+    "pronunciation": "/sɒmˈnambjʊlɪst/",
+    "part_of_speech": "noun",
+    "definition": "A sleepwalker."
+  },
+  {
+    "id": 183,
+    "word": "verisimilitude",
+    "pronunciation": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+    "part_of_speech": "noun",
+    "definition": "The appearance of being true or real."
+  },
+  {
+    "id": 184,
+    "word": "au pair",
+    "pronunciation": "/əʊ ˈpeər/",
+    "part_of_speech": "noun",
+    "definition": "A young foreign person, typically a woman, who helps with housework or child care in exchange for room and board."
+  },
+  {
+    "id": 185,
+    "word": "omnipotence",
+    "pronunciation": "/ɒmnɪˈpəʊt(ə)ns/",
+    "part_of_speech": "noun",
+    "definition": "The quality of having unlimited or very great power."
+  },
+  {
+    "id": 186,
+    "word": "abeyance",
+    "pronunciation": "/əˈbeɪəns/",
+    "part_of_speech": "noun",
+    "definition": "A state of temporary disuse or suspension."
+  }
+]
