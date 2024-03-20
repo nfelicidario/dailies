@@ -49,7 +49,9 @@
 
 Dailies is your daily dose of variety! Get a new question, joke, fact, and word each day, igniting your curiosity and sparking engaging conversations to brighten up your day-to-day interactions.
 
-[![Dailies Mockup][product-screenshot]](https://example.com)
+<img src="assets/dailies-thumbnail-1.png" alt="dailies-thumbnail-1" width="32%"/>
+<img src="assets/dailies-thumbnail-2.png" alt="dailies-thumbnail-2" width="32%"/>
+<img src="assets/dailies-thumbnail-3.png" alt="dailies-thumbnail-3" width="32%"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
