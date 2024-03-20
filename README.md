@@ -2,9 +2,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/dailies-logo.png" alt="Logo" height="80">
-  </a>
+  <img src="assets/dailies-logo.png" alt="Logo" height="80">
 
   <h1 align="center">Dailies - Chrome Extension</h1>
 
@@ -23,6 +21,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -56,23 +55,29 @@ Dailies is your daily dose of variety! Get a new question, joke, fact, and word 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ABOUT THE PROJECT -->
+<!-- HOW TO SET UP -->
 
 ## How To Set Up
+
 ### User Setup
+
 Dailies is published to the Chrome Web Store. To install it within your Chrome browser:
+
 1. Navigate to the <a href="https://chromewebstore.google.com/detail/dailies/cigljeddpijjcbajmheglfhoabjfoaem?hl=en&authuser=0">Dailies listing</a>.
 2. Click the <i>Add To Chrome</i> button.
-3. After it is installed, click on the Extensions icon (puzzle piece) in the top right of your browser navbar and pin it. 
+3. After it is installed, click on the Extensions icon (puzzle piece) in the top right of your browser navbar and pin it.
 4. To use it, simply click on the Dailies extension in your navbar and your daily content will appear in a popup.
 
 ### Developer Setup
-1. Clone this repo to your local. 
-2. Navigate to <a href="chrome://extensions/">chrome://extensions/</a>. 
+
+1. Clone this repo to your local.
+2. Navigate to <a href="chrome://extensions/">chrome://extensions/</a>.
 3. Make sure <i>Developer mode</i> is toggled on in the top right of the webpage.
 4. Click on the <i>Load unpacked</i> button in the top left of the webpage and select the <i>dailies</i> folder.
-5. After it is added, click on the Extensions icon (puzzle piece) in the top right of your browser navbar and pin it. 
+5. After it is added, click on the Extensions icon (puzzle piece) in the top right of your browser navbar and pin it.
 6. To use it, simply click on the Dailies extension in your navbar and your daily content will appear in a popup.
+
+<!-- TECHNOLOGIES -->
 
 ## Technologies
 
@@ -105,8 +110,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Acknowledgments
 
-- [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 - [Google Fonts](https://fonts.google.com/)
 - [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
