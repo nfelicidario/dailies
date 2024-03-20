@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <!-- HEADER -->
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/dailies-logo.png" alt="Logo" height="80">
@@ -11,8 +10,8 @@
 
   <p align="center">
     Your daily dose of info delivered straight to your browser, featuring content to ignite curiosity and conversation.
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://chromewebstore.google.com/detail/dailies/cigljeddpijjcbajmheglfhoabjfoaem?hl=en&authuser=0"><strong>Chrome Web Store</strong></a>
     ·
     <a href="https://docs.google.com/document/d/1yyX5wTiCQ94cQOjH4IvSN7CG_yqAfmK_tDWcI6NIfnY/edit?usp=sharing"><strong>Project Spec</strong></a>
@@ -111,6 +110,3 @@ Don't forget to give the project a star! Thanks again!
 - [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
