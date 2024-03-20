@@ -104,6 +104,7 @@ Don't forget to give the project a star! Thanks again!
 
 - [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 - [Google Fonts](https://fonts.google.com/)
+- [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
